@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Student for learning Swift and JS, learned C lang too.
+Loves Swift Programming~
